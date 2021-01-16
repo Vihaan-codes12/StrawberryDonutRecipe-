@@ -1,7 +1,3 @@
-# StrawberryDonutsRecipe
-This is my strawberry donut recipe. It will have strawberry icing on a donut and sprinkles on top. 
-
-
 Get a mixing bowl
 Put in two cups of self-raising flour 
 If you only have regular flour, add a teaspoon of baking powder to it
